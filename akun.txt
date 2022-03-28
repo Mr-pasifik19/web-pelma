@@ -1,6 +1,6 @@
--login admin-
+-login-
 
-..../administrator/
+url/administrator/
 username : pasifik
 password : pacipicamahardika
 
